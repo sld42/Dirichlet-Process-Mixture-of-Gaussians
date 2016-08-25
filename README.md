@@ -2,7 +2,7 @@
 This repo shows how data generated from a Dirichlet process mixture of Gaussians with a NIW prior on the Gaussian parameters changes as we vary the parameters 
 
 The code here is written in Python and generates figures to show what happens to the data as you vary the following parameters:
-alpha: The concentration parameter of the stick breaking process
+alpha: The concentration parameter of the stick breaking process \n
 nu: The degree of freedom parameter of the inverse Wishart distribution
 psi: A positive-semidefinite matrix that parameterizes the inverse Wishart distribution
 lambda: The covariance coefficient in the normal distribution of the NIW
